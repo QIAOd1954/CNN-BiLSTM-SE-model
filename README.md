@@ -1,6 +1,9 @@
 # CNN-BiLSTM-SE-model
 基于CNN-BiLSTM-SE模型的文本情感检测系统
 系统的图片可以通过上方的images文件夹查看截图
+系统演示：
+【基于CNN-BiLSTM-SE模型的文本情感检测系统-哔哩哔哩】 https://b23.tv/vs2zIqS
+
 
 本系统设计并且实现一个基于CNN-BiLSTM-SE的文本情感检测模型
 主框架是由Facebook公司开发PyTorch框架
